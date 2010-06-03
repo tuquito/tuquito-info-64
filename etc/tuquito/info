@@ -1,6 +1,6 @@
 RELEASE=4
 CODENAME=toba
 DESCRIPTION="Tuquito 4 Toba"
-EDITION="GNOME 64bits"
+EDITION="Gnome 64bits"
 GRUB_TITLE=Tuquito 4 Toba
-STATUS=alpha
+STATUS=beta
