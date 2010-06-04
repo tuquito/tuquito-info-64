@@ -1,3 +1,9 @@
+tuquito-info-64 (4.0-2.1) lucid; urgency=low
+
+  * agregado paquetes con conflictos
+
+ -- Mario Colque <mario@tuquito.org.ar>  Fri, 04 Jun 2010 17:20:43 -0300
+
 tuquito-info-64 (4.0-2) lucid; urgency=low
 
   * Corrección en sintaxis de info
