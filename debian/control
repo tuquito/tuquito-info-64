@@ -7,6 +7,8 @@ Standards-Version: 3.8.1
 
 Package: tuquito-info-64
 Architecture: amd64
+Conflicts: tuquito-info-main-64
+Replaces: tuquito-info-main-64
 Description: Información básica del sistema
  Paquete base de información para el ajuste del sistema e identificación de versión.
  * Tuquito Team! - 2010
