@@ -1,3 +1,15 @@
+tuquito-info-64 (4.0-5) lucid; urgency=low
+
+  * Actualización a estado stable
+
+ -- Mario Colque <mario@tuquito.org.ar>  Tue, 22 Jun 2010 19:46:49 -0300
+
+tuquito-info-64 (4.0-4) lucid; urgency=low
+
+  * actualización a estado beta
+
+ -- Mario Colque <mario@tuquito.org.ar>  Thu, 17 Jun 2010 11:57:08 -0300
+
 tuquito-info-64 (4.0-3) lucid; urgency=low
 
   * vuelta a alpha
