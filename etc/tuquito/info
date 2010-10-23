@@ -1,5 +1,5 @@
-RELEASE=4
-CODENAME=toba
-DESCRIPTION="Tuquito 4 Toba"
+RELEASE=4.1
+CODENAME=wichi
+DESCRIPTION="Tuquito 4.1 Wichi"
 EDITION="Gnome 64bits"
-STATUS=stable
+STATUS=alpha
