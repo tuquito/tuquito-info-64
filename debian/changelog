@@ -1,3 +1,9 @@
+tuquito-info-64 (4.1-1) maverick; urgency=low
+
+  * status beta
+
+ -- Mario Colque <mario@tuquito.org.ar>  Fri, 29 Oct 2010 13:10:46 -0300
+
 tuquito-info-64 (4.1) maverick; urgency=low
 
   * Rebranded to Wichi
