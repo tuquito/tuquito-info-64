@@ -1,3 +1,9 @@
+tuquito-info-64 (4.1-2) maverick; urgency=low
+
+  * status stable
+
+ -- Mario Colque <mario@tuquito.org.ar>  Fri, 24 Dec 2010 01:07:17 -0300
+
 tuquito-info-64 (4.1-1) maverick; urgency=low
 
   * status beta
